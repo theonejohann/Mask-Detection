@@ -1,5 +1,8 @@
 # Mask Detection
 
+![exapmle](test.png)
+
+
 # Data:
 
 [Face-mask detection](https://www.kaggle.com/datasets/sanknn/facemask-detection)
